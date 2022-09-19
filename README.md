@@ -1,4 +1,4 @@
-# Javascript basics
+# Javascript
 #### Contents
 
 0. intro 
